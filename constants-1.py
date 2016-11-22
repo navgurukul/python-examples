@@ -10,6 +10,7 @@
 # numbers ko python mei INTEGER bolte hai
 
 print 123
+print 9999
 
 # 9.9 ek number hai jisme decimal yani decimal number (dashamlav ke saath), jo 9.9 hi rahega, isliye constant
 
