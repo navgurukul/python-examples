@@ -5,33 +5,49 @@
 # aap jyada comments bhi likh sakte hai, jitne jyada comments likhenge, utna aapkya fayda hoga
 
 # question 1
-# ek variable_nav naam ka variable banaye aur usse koi bhi INTEGER value assign kar de
-# variable_nav ko print karein
+# var_12 naam ke VARIABLE ko koi FLOAT assign karo
 
 
+# _var naam ke VARIABLE ko koi STRING assign karo
+
+
+# _12 naam ke VARIABLE ko koi INTEGER assign karo
+
+
+# teeno variables ko print karo
 
 
 
 
 # question 2
-# ek naya variable gurukul banaye aur usse koi bhi STRING value assign kar de
-# variable_nav ko dobara koi bhi FLOAT value dekar set kar de
-# variable_nav aur gurukul value ko ab print karein
+# 123var naam ke VARIABLE ko koi INTEGER assign karo
 
 
+# assign ho gaya? agar nahi toh kyu?
+
+
+
+
+# question 3
+# var.123 naam ke VARIABLE ko koi INTEGER assign karo
+
+
+# assign ho gaya? agar nahi toh kyu?
 
 
 
 
 
 # question 4
-# variable kya hote hai, apna answer comments mei likhe
+# Varx naam ke variable ko STRING assign karo
 
 
+# vaRx naam ke variable ko koi FLOAT assign karo
 
 
+# kya vaRx and Varx same hai? Print karke dekho
 
 
+# Agar same nahi hai toh kyu, nahi hai?
 
-# question 5
-# variable aur constants mei kya pharak hota hai, apna answer comment mei likhe
+
