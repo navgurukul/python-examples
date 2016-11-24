@@ -24,18 +24,22 @@
 
 
 
-# vara mei user se ek INTEGER input lijiye
+# var_a mei user se ek INTEGER input lijiye
 
 
 
 
 
 
-# varb mei user se ek INTEGER input lijiye
+# var_b mei user se ek INTEGER input lijiye
 
 
 
 
 
 
-# vara aur varb ka sum print kijiye
+# var_a aur var_b ka sum print kijiye
+
+
+
+

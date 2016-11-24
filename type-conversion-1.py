@@ -33,7 +33,7 @@ var_b = str(var_a)
 print type(var_a)
 print type(var_b)
 print var_a + var_a
-print var_b + var_a
+print var_b + var_b
 #iss example mei aapne kya observe kiya?
 
 

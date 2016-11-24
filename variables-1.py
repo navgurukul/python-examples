@@ -32,7 +32,7 @@ print variable_x, a
 # aise hi hum a ko ab update kar dete hai, and ek naya variable banate hai c
 
 a='hello world'
-c='navgurukul'
+b='navgurukul'
 
 # ab dekhte hai kya output hoga
-print variable_x, a, b, c
+print variable_x, a, b
