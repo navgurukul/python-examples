@@ -14,6 +14,8 @@ var_b = str(23)
 # var_a ka type print kar kar dekhte hai
 print type(var_a)
 
+# iska output kuch aisa aayega - <type 'str'>
+# iska matlab iska type 'str', yaani STRING hai
 
 # var_b ka type print kar kar dekhte hai
 print type(var_b)

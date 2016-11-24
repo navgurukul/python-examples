@@ -3,9 +3,11 @@
 # LIST ek structure hai jismei hum bahut saare ITEMs ek saath rakh sakte hai. Jaise
 
 # school mei baccho ke naam ki LIST
+# TYPE command se hum dekhenge python isse KAISE interpet karta hai
 
 names_list = ["rahul", "shivam", "kavay", "ashish", "rohit"]
 print names_list
+print type(names_list)
 
 # note kariye, ki LIST ko start karne ke liye [ use hota hai and band karne ke liye ] use hota hai
 # [ ] ki shape square jaise dekhti hai, isliye inhe SQUARE BRACKEtS kaha jata hai
@@ -16,6 +18,7 @@ print names_list
 
 banks_list = ["Kotak", "HDFC", "RBL", "SBI", "Bank of Baroda"]
 print banks_list
+print type(banks_list)
 
 # INTEGERS ki LIST
 
@@ -23,6 +26,7 @@ print banks_list
 
 ravi_marks_list = [70, 80, 75, 65, 68]
 print ravi_marks_list
+print type(ravi_marks_list)
 
 # FLOATS ki LIST
 
@@ -34,9 +38,11 @@ print temperature_list
 # LIST jisme mixed elements ho, aisi lists ka use limited hota hai, isliye hum inhe shayad use nahi kar rahe honge, par yeh python mei banayi ja sakti hai
 
 mixed_list = ["rahul", 12, 9.0, "kaavay", "shivam", 1]
+print type(mixed_list)
 
 # LISTS ki LIST
 student1_list = ["rahul", "maths"]
+print type(student1_list)
 student2_list = ["shivam", "science"]
 student3_list = ["kavay", "english"]
 
@@ -44,8 +50,11 @@ student3_list = ["kavay", "english"]
 # ab hum ek LIST banayenge jiske ITEMS khud ek LIST hai
 
 students_list = [student1_list, student2_list, student3_list]
+print type(students_list)
 
 # yeh observe karein ki har LIST mei kisi bhi tarah ke ITEMS rakhe ja sakte hai
 # LIST ek generic structure hai jismei aap jo chahe unko rakh sakte hai
 
 # LIST hai ya nahi dekhne ke liye [ ] (square brackets) ko dhundhe
+
+# Aapne observe kiya hoga, sab ka type 'list' hi hai
