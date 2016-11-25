@@ -22,7 +22,7 @@
 
 
 
-# Ek LIST banao jiske ITEMS yeh wali chaar LISTS hai
+# Ek LIST banao jiske ITEMS uppar wali chaar LISTS hai
 
 
 
