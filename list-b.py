@@ -2,7 +2,7 @@
 # Har line of code se pehle aapko ek line mei comment mei daal kar likhna hai, ki uss line of code ka matlab kya hai
 # Aap jyada comments bhi likh sakte hai, jitne jyada comments likhenge, utna aapkya fayda hoga
 
-# list-a.py assignment se questions_list se second question print karo
+# list-a.py assignment se questions_list ko use kar kar second question print karo
 
 
 

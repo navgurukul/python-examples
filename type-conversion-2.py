@@ -6,7 +6,7 @@
 
 # isliye raw_input se INTEGER lene ke liye hume STRING se INT mei type cast karna hoga
 
-# input ek variable hai jo raw_input ka output store karta hai
+# user_input ek variable hai jo raw_input ka output store karta hai
 user_input = raw_input("Enter a number");
 
 # ab ismei user ki side se 12 input karo aur dekh input ka type and value kya hai
