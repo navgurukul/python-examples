@@ -44,11 +44,11 @@ print "hello", student
 
 # hum loop mei jayenge
 # -- pehle student ki value "robin" hogi and "hi robin" print hoga
-# -- phir student ki value "anamika" hogi and "hi robin" print hoga
-# -- phir student ki value "faisal" hogi and "hi robin" print hoga
-# -- phir student ki value "valmiki" hogi and "hi robin" print hoga
-# -- phir student ki value "waseem" hogi and "hi robin" print hoga
-# -- phir student ki value "amara" hogi and "hi robin" print hoga
+# -- phir student ki value "anamika" hogi and "hi anamika" print hoga
+# -- phir student ki value "faisal" hogi and "hi faisal" print hoga
+# -- phir student ki value "valmiki" hogi and "hi valmiki" print hoga
+# -- phir student ki value "waseem" hogi and "hi waseem" print hoga
+# -- phir student ki value "amara" hogi and "hello amara" print hoga
 # phir hum loop se bahar nikelenge
 # par student ki value abhi bhi amara hi set hai, isliye "hello amara" set ho jayega
 
