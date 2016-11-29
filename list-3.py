@@ -7,7 +7,7 @@
 students_list = ["robin", "anamika", "faisal", "valmiki", "waseem", "amara"]
 
 for student in students_list:
-	print student
+    print student
 
 # ismei kaafi saari cheezein samajhne ke liye important hai
 
@@ -35,11 +35,22 @@ for student in students_list:
 # jaise yeh example dekho
 
 for student in students_list:
-	# student_list mei har ek marks ke liye
-	print "hi", student
-	print ""
+    # student_list mei har ek marks ke liye
+    print "hi", student
 
 print "hello", student
+
+# student ek variable ki tarah kaam karta hai jo different values leta hai different points par. jaise
+
+# hum loop mei jayenge
+# -- pehle student ki value "robin" hogi and "hi robin" print hoga
+# -- phir student ki value "anamika" hogi and "hi robin" print hoga
+# -- phir student ki value "faisal" hogi and "hi robin" print hoga
+# -- phir student ki value "valmiki" hogi and "hi robin" print hoga
+# -- phir student ki value "waseem" hogi and "hi robin" print hoga
+# -- phir student ki value "amara" hogi and "hi robin" print hoga
+# phir hum loop se bahar nikelenge
+# par student ki value abhi bhi amara hi set hai, isliye "hello amara" set ho jayega
 
 # socho kya hona chahiye? and phir execute karke dekho kya hota hai? kuch samajh aaya?
 
@@ -49,11 +60,11 @@ student_marks = [23, 45, 89, 90, 56, 80]
 
 total_marks = 0
 for marks in student_marks:
-	#student_marks mei har ek marks ITEM ke liye yeh karein
+    #student_marks mei har ek marks ITEM ke liye yeh karein
 
-	# total_marks variable mei marks ko add kar do, jisse total_marks update ho jaye
-	total_marks = total_marks + marks
-	print "marks of current student", marks, "marks of all students till now", total_marks
+    # total_marks variable mei marks ko add kar do, jisse total_marks update ho jaye
+    total_marks = total_marks + marks
+    print "marks of current student", marks, "marks of all students till now", total_marks
 
 print "total marks of all the students are ", total_marks
 
@@ -63,13 +74,13 @@ print "total marks of all the students are ", total_marks
 
 total_marks = 0
 for student in students_list:
-	#student_list mei har ek student ke liye yeh karein
+    #student_list mei har ek student ke liye yeh karein
 
-	#raw_input use karke sabke marks input karein
-	marks_string = raw_input(student+" ke marks enter karo:\n")
-	#raw_input se STRING milta hai. usse INTEGER mei type cast karein
-	marks_int = int(marks_string)
-	total_marks = total_marks + marks_int
+    #raw_input use karke sabke marks input karein
+    marks_string = raw_input(student+" ke marks enter karo:\n")
+    #raw_input se STRING milta hai. usse INTEGER mei type cast karein
+    marks_int = int(marks_string)
+    total_marks = total_marks + marks_int
 
 print "sab students ke milakar total marks ", total_marks, "hai"
 
@@ -81,30 +92,30 @@ print "sab students ke milakar total marks ", total_marks, "hai"
 
 student_marks = []
 for student in students_list:
-	#student_list mei har ek student ke liye yeh karein
+    #student_list mei har ek student ke liye yeh karein
 
-	#raw_input use karke sabke marks input karein
-	marks_string = raw_input(student+" ke marks enter karo:\n")
-	#raw_input se STRING milta hai. usse INTEGER mei type cast karein
-	marks_int = int(marks_string)
-	#jo marks mile hai usse student_marks array mei daal de
-	student_marks.append(marks_int)
+    #raw_input use karke sabke marks input karein
+    marks_string = raw_input(student+" ke marks enter karo:\n")
+    #raw_input se STRING milta hai. usse INTEGER mei type cast karein
+    marks_int = int(marks_string)
+    #jo marks mile hai usse student_marks array mei daal de
+    student_marks.append(marks_int)
 
 print "marks ka array hai - ", student_marks
 
 # ek variable banate hai jo kitne students ko marks ke hisaab se improvement ki jaroorat hai woh determine karega
 num_students_need_improvement = 0
 for student in students_list:
-	#student_list mei har ek student ke liye yeh karein
+    #student_list mei har ek student ke liye yeh karein
 
-	#raw_input use karke sabke marks input karein
-	marks_string = raw_input(student+" ke marks enter karo:\n")
-	#raw_input se STRING milta hai. usse INTEGER mei type cast karein
-	marks_int = int(marks_string)
-	#jo marks mile hai usse student_marks array mei daal de
-	if marks_int < 30:
-		print "marks less than 30"
-		num_students_need_improvement = num_students_need_improvement + 1
+    #raw_input use karke sabke marks input karein
+    marks_string = raw_input(student+" ke marks enter karo:\n")
+    #raw_input se STRING milta hai. usse INTEGER mei type cast karein
+    marks_int = int(marks_string)
+    #jo marks mile hai usse student_marks array mei daal de
+    if marks_int < 30:
+        print "marks less than 30"
+        num_students_need_improvement = num_students_need_improvement + 1
 
 print num_students_need_improvement, "students ko apne marks mei improvement ki jaroorat hai"
 
