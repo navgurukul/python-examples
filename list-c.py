@@ -32,7 +32,7 @@
 
 
 # Aap apni questions_list ko iterate karein
-# Har iteration mei user se input lo, ki user ko kya lagta hai kya answer hai
+# User ke answer ko answer_list mei daalein
 
 
 
