@@ -37,6 +37,16 @@ Facebook ko kisne found kiya tha?
 
 
 
+
+
 # Aap ek variable banao jiska naam counter hoga. counter ko zero se initialise karo program shuru hone se pehle. jab user sahi jawaab dega toh counter mei 1 add kar do, and jab user galat jawaab dega toh counter ko change mat karo. program khatam karne ke baad output karo ki
 # Aapke 5 mei se 3 jawaab sahi hai (3 ke jagah jo counter ki value hai woh print honi chahiye)
 # yaani, user ke sahi answers ko count karke print karo ki kitne answers sahi the
+
+
+
+
+
+
+
+# Iss code ko, jo KBC khelne ke liye jaroori hai, kbc.py file mei save karke git par push karein ya apne facilitator ko slack par bheje
