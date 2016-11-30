@@ -29,4 +29,4 @@ marks_list = [83, 90, 45, 78, 23, 37]
 for index in range(6):
     print students_list[index], "ke", marks_list[index], "marks hai"
 
-# humne range(n) LIST ka use karke 
+# aisa karke hum do LISTS ko ek saath iterate kar paa rahe hai. yeh karne ke liye hum range(n) LIST ko use kar rahe hai
