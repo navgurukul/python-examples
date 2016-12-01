@@ -15,12 +15,29 @@
 '''
 Aapka 1 question hai yeh
 Facebook ko kisne found kiya tha?
+Mark Zuckerberg
+Sabeer Bhatia
+Tim Cook
+Satya Nadella
+'''
+
+
+
+
+
+
+
+
+# Ab aap apne output ko aise change karo
+'''
+Aapka 1 question hai yeh
+Q - Facebook ko kisne found kiya tha?
 1 - Mark Zuckerberg
 2 - Sabeer Bhatia
 3 - Tim Cook
 4 - Satya Nadella
 '''
-
+# Yeh Q - , 1 - , 2 - , 3 - , and 4 - aap options list mei nahi daaloge. Yaani options list option ko modify nahi karna hai.
 
 
 
