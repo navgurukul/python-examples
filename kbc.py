@@ -1,4 +1,9 @@
+# Yeh exercise hai
+# Har line of code se pehle aapko ek line mei comment mei daal kar likhna hai, ki uss line of code ka matlab kya hai
+# Aap jyada comments bhi likh sakte hai, jitne jyada comments likhenge, utna aapkya fayda hoga
+
 # Ab aap 10 aur questions, unke options and keys add karo apni lists mei
+
 
 
 
@@ -35,47 +40,6 @@
 
 
 
-
-
-
-
-
-
-# Agar user ko galat answer karta hai toh aapko peechle padaav jitne paise user ko print karke dene hai
-# "Galat Jawaab! Aaj aap jeet-te hai 10,000 rupees"
-
-
-
-
-
-
-
-
-# User answer mei option dene ki jagah - user quit likh kar game se withdraw bhi kar sakta hai
-# Agar user aisa karega toh joh paisa user ne jeeta hoga, aap usko print kar doge
-# "Aap ne game se quit kar liya hai. Par aaj aap ghar le kar ja rahe hai 320000 rupees." (320000 ko user ki jeeti hue paise se badloge)
-
-
-
-
-
-
-
-
-# User jab bhi kabhi "lifeline" likehga toh aap uske ko bhi do galat jawaab hata kar, bache hue do options dikhaoge
-# aur user se dobara input loge.
-# Kaunse galat jawaab hatane hai uske liye aap saare options ko ek ek karke iterate karo, aur ek sahi aur ek galat answer ko dikhao
-# User uske baad jo answer daalega uske basis par apna game theek se chalao
-
-
-
-
-
-
-
-
-
-# Code mei aisa change karo jisse user yeh lifeline game mei sirf 2 baar kar sakta hai
 
 
 
