@@ -4,16 +4,25 @@
 
 # Aap yeh code execute karke dekho
 
+# Ab hum ek flag variable ka use karenge apne program ko control karne ke liye. flag koi bhi normal variable and iska naam kuch bhi rakh sakte ho.
+
 flag=True
 for index in range(10):
+	# if flag likhne se, jaise hi flag False set ho jayega, toh yeh sab execute nahi hoga
 	if flag:
+		# Yaha par aap woh saara kaam karenge jo aap chahte hai na ho jab flag False set ho jaye
+
+		# Yeh condition batati hai flag kab False set karna hai. Aap iss condition ke jagah apne hisaab se koi bhi condition likh sakte hai, jab aap chahte ki Flag false set ho jaye
 		if index>6:
 			flag=False
-		print index
+
+		print "Yeh flag ke andar hai", index
+
+	# Yeh flag ke bahar hai toh yeh toh execute hoga hi, chahe flag ki value kuch bhi ho
+	print "Yeh flag ke bahar hai", index
 
 
 # Humne toh loop 10 baar chalane ko kaha tha, toh loop sirf 8 baar kyu execute hua?
-
 # Flag variable ke vajah se.
 
 # Issi concept ka use karke apne KBC game ko aise modify karo jisse ki ----
