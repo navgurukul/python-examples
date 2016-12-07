@@ -12,22 +12,28 @@
 # Fir python shell mein jake dekhiye ki yeh value aapne sahi sochi thi ya galat:
 # apna response usi ke neeche likhe
 
+
 10 < 20
 True # 10 < 20 ko hum padhenge 10 20 se chota hai, jo theek hai. Isliye True. (Aise hi baaki saare examples karein)
 
 9 < 8
 False # 9 < 8 ko hum padhenge 9 8 se chota hai, jo galat hai. Isliye False. (Aise hi baaki saare examples karein)
 
+
 10 > 20
+
 
 
 9 > 100
 
 
+
 10 <= 12
 
 
+
 10 <= 10
+
 
 
 10 >= 9
@@ -37,10 +43,13 @@ False # 9 < 8 ko hum padhenge 9 8 se chota hai, jo galat hai. Isliye False. (Ais
 17 >= 13
 
 
+
 6 == 6
 
 
+
 1 == 3
+
 
 
 6 != 5
@@ -48,3 +57,44 @@ False # 9 < 8 ko hum padhenge 9 8 se chota hai, jo galat hai. Isliye False. (Ais
 
 
 1 != 1
+
+
+
+# In sabka result Boolean variable mei aaya
+
+# Ab yeh try karo
+
+10 + 20
+
+
+
+9 * 8
+
+
+
+10 - 12
+
+
+
+3 / 2
+
+
+
+3 / 2.0
+
+
+
+# Yaha par kuch antar dekha? Aap dekhenge ki jab hum integer se divide karte hai toh pratishat yaani decimal value ke baad ki value computer ignore maar deta hai. Par jab hum float se divide karte hai toh pratishat yaani decimcal ke baad ki value ka computer dhyaan rakhta hai.
+
+# Aise hi yeh examples karo
+
+9 / 4
+
+
+
+9.0 / 4
+
+
+
+
+# Par aap dekhenge ki in sab ka output ek aur float ya integer hai. 
