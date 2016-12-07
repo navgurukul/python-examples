@@ -7,10 +7,10 @@
 
 # Neeche kuch comparison operators ke saath statements di hui hain.
 
-# Ek baar pehle apne dimaag mein inki boolean value ke baare mein sochne ki koshish kariye.
+# Ek baar pehle apne dimaag mein inki value ke baare mein sochne ki koshish kariye.
 
 # Fir python shell mein jake dekhiye ki yeh value aapne sahi sochi thi ya galat:
-# apna response usi ke neeche likhe
+# Apna response usi ke neeche likhe
 
 
 10 < 20
