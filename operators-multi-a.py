@@ -10,7 +10,9 @@
 
 
 (4 + 5) / (4 - 1)
-3 # 4 aur 5 jodkar 9 banega, 4 mei se ek ghatakar 2 bachega. 9 ko 3 se divide kar kar 3 bachega. 
+3 #PEHLE ANSWER LIKHO
+# PHIR EXPLANATION4 LIKHO
+# 4 aur 5 jod kar 9 banega, 4 mei se ek ghatakar 3 bachega. 9 ko 3 se divide kar kar 3 bachega
 
 (4 + 5) < (4 - 1)
 

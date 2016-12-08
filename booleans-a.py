@@ -11,12 +11,34 @@ doosraBool = False
 
 
 print pehlaBool and doosraBool
+
+
+
 print pehlaBool or doosraBool
+
+
+
 print not pehlaBool
+
+
+
 print not doosraBool
 
 
+
 print (pehlaBool and doosraBool)
+
+
+
 print (pehlaBool or doosraBool)
+
+
+
 print (not pehlaBool)
+
+
+
 print (not doosraBool)
+
+
+
