@@ -23,7 +23,7 @@ doosraBool = False
 # pehlaBool and doosraBool likhenge toh and operator pehlaBool and secondBool par kaam karega
 # Iss ka result True hoga agar dono hi Boolean values True hongi. Agar ek bhi value false ho jayegi, toh "and" operator false return kar deta hai
 
-print (True and True
+print (True and True)
 print (True and False)
 print (False and True)
 print (False and False)
@@ -35,7 +35,7 @@ print (False and False)
 # Aise hi Or ko socho
 # pehlaBool or (yaani ya) doosraBool True hai toh result True hai
 
-print (True or True
+print (True or True)
 print (True or False)
 print (False or True)
 print (False or False)
