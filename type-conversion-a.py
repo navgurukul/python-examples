@@ -22,16 +22,11 @@
 
 
 
-#var45 mei raw_input use karke ek INTEGER input karao. uss INTEGER ko 2 se multiply karke print karo
+#var45 mei ek FLOAT value daalkar usse STRING mei type cast karo
 
 
 
 
 
 
-#var56 mei raw_input use karke ek FLOAT input karao. uss FLOAT ko 2 se divide karke print karo
-
-
-
-
-
+#var56 me ek STRING value daalkar usse INTEGER mein type cast kare
