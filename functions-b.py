@@ -2,17 +2,16 @@
 # Har line of code se pehle aapko ek line mei comment mei daal kar likhna hai, ki uss line of code ka matlab kya hai
 # Aap jyada comments bhi likh sakte hai, jitne jyada comments likhenge, utna aapkya fayda hoga
 
-# function_print_lines naam ka ek function likho jo 2 strings leta ho, aur uske baad unn do strings ko aise print karta ho. Jaise agar main usko
-# "Mera naam Rishabh hai." aur "Main NavGurukul ka co-Founder hun." dunga toh woh yeh print karega:
+# function_print_lines naam ka ek function likho jo 2 strings leta ho, aur unko neeche diye hue dhang se print karta ho.
+# Jaise agar hum usko "Mera naam Rishabh hai." aur "Main NavGurukul ka co-Founder hun." denge toh woh yeh print karega:
 '''
 ------------------------------
 Mera naam Rishabh hai.
 Main NavGurukul ka co-founder hun.
 ------------------------------
 '''
-# iske baad ek function_print_again naam ka function banaye jiss function mein function_print_lines 3 baar call hoye aur jo bhi
-# isme yeh dhyaan rakhiye ki jo arguments hum function_print_again ko call karte hue denge woh hi 3 baar print hone chaiye
-# ab function_print_again kisi bhi do strings ke saath call kare
+
+
 
 
 
