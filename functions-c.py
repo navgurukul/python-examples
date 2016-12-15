@@ -14,18 +14,11 @@
 # - calculator(10, 4, "multiply") call karne pe 40 return karega. 40 hume 10*4 karne se milega.
 # - calculator(40, 4, "divide") call karnse pe 10 return karega. 10 hume 40/3 karne se milega.
 
-
-
-
-
-
-
-
-# function likhne ke baad, yeh kaam karne ke liye function call karo
-# 24 aur 20 ko add karo
-# 50 aur 60 ko multiply karo
-# 80 aur 120 ko divide karo
-# 90 aur 23 ko subtract karo
+# function likhne ke baad, yeh kaam karne ke liye function call karo aur variable mein value daalo
+# 24 aur 20 ko add karo aur number_1 variable mein value daalo
+# 50 aur 60 ko multiply karo aur number_1 variable mein value daalo
+# 80 aur 120 ko divide karo aur number_1 variable mein value daalo
+# 90 aur 23 ko subtract karo aur number_1 variable mein value daalo
 
 
 
@@ -33,6 +26,7 @@
 
 
 # Ab raw_input ka use kar ke user se 2 numbers input lo.
+# Note: Yeh karne ke liye koi function banane ki zaroorat nahi hai.
 # Fir calculator function ko 4 baar call call kar ke inn dono numbers do add, subtract, multiply, divide karo
 # aur result ko 4 alag variables mein daalo. Woh variables ka naam yeh hoga:
 # *add_result* add operation ka result store karega
@@ -47,14 +41,15 @@
 
 
 
-# list_change naam ka ekf function ka code likho jo 2 chaar items ki lists arguments ki tarah le aur fir unn lists
-# ki woh items so same index number (kram) pe hain unko multiple kar ke ek nayi list return karvaye.
-# Aapko multiple karne ke liye *calculator* function ka use karna hai. Normal tareeke se divide nahi kar sakte ho.
+# list_change naam ka ek function ka code likho jo 2 lists jisme integers arguments ki tarah le aur fir unn lists
+# ki woh items jo same index number (kram) pe hain unko multiply kar ke ek nayi list return karvaye.
+# Aapko multiply karne ke liye *calculator* function ka use karna hai. Normal tareeke se multiply nahi kar sakte ho.
 # Jaise agar hum function ko aise call karenge toh:
 # multiple_list = list_change([5, 10, 50, 20], [2, 20, 3, 5])
 # Yahan *multiple_list* ki yeh value honi chaiye:
 # [10, 200, 150, 100]
 # 10, 5 aur 2 ko multiple kar ke aaya, 200 10 aur 20 ko multiple kar ke, 150 50 aur 3 ko, 100 20 aur 5 ko
+# Aap abhi ke liye yeh maan sakte ho ki dono lists ki length 4 hogi. Matlab dono lists mein 4 items honge.
 # Note: List pe iterate karte hue abhi ke liye aap yeh soch sakte hain ki aapko 4 items ki list hi milegi
 
 # Hint: Neeche diye gaye code mein ek khaali list mein nayi value daalne ka code likha hai.
