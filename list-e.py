@@ -13,7 +13,7 @@
 
 
 
-# Aap 1 se lekar 1000 tak jo number 7 aur 3 se divisible hai, woh print karo
+# Aap 1 se lekar 1000 tak jo number 7 aur 3 dono se divisible hai, woh print karo
 
 
 
@@ -28,12 +28,3 @@
 # Agar number 7 se divisible hai toh "gurukul"
 # Agar number 21 se divisible hai toh "navgurukul"
 # print karein
-
-
-
-
-
-
-
-
-
