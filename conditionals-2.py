@@ -13,7 +13,7 @@ elif day == "Thursday": # Agar uppar wali conditions galat hai (Yaani day Monday
 elif day == "Friday": # Agar uppar wali conditions galat hai (Yaani day Monday, Tuesday, Wednesday aur Thursday nahi hai) aur day Friday hai toh
 	print "Litti Chokha"
 elif day == "Saturday": # Agar uppar wali conditions galat hai (Yaani day Monday, Tuesday, Wednesday, Thursday aur Friday nahi hai) aur day Saturday hai toh
-	print "Thupka"
+	print "Thukpa"
 else: # Agar uppar wali conditions galat hai (Yaani day Monday, Tuesday, Wednesday, Thursday, Friday aur Saturday nahi hai)
 	print "Poha"
 
@@ -43,6 +43,3 @@ else: # Agar uppar wali conditions galat hai (Yaani day Monday, Tuesday, Wednesd
 	print "Poha"
 
 print "Khayenge" # Loop ke bahar aa gaye hai. Yeh code hamesha chalega.
-
-
-
