@@ -106,6 +106,11 @@ words = ['time',  'person',  'year',  'way',  'day',  'thing',  'man',  'world',
 # Aapne aisa code likhna hai jo do cheezein kare:
 # - Saare unn words ka count print karo jinme "e" aata hai
 # - Saare unn words ka count print karo jinme "i" aata hai
+# - Saare unn words ka count print karo jinme "e" aur "i" dono aate hain
+# Output kuch aisi aane chaiye:
+# 'e' waale words - 6
+# 'i' waale words - 3
+# 'e' aur 'i' waale words - 2
 
 
 
@@ -128,13 +133,3 @@ words = ['time',  'person',  'year',  'way',  'day',  'thing',  'man',  'world',
 # - Aise hi 10 aur 16 bhi dono list mein aa raha tha, lekin nayi list mein ek hi baar hai
 # - Aur 5, 2, 12, 13 aur 20 mein se kuch pehli list mein the aur kuch dusri mein, lekin
 #   sabhi nayi list mein ek ek baar aa rahe hain
-
-
-
-
-
-
-
-
-
- 
