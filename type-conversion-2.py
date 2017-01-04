@@ -13,7 +13,7 @@ print user_input
 # Ek aur raw_input ka example leke isko aur detail mein samajhte hain
 number1 = raw_input("Ek number daalo ")
 
-# Yahan dekho ki rasw_input ke brackets ke andar humne ek string daala hai.
+# Yahan dekho ki raw_input ke brackets ke andar humne ek string daala hai.
 # Iss string ki value "Ek number daalo" hai. Hum inn brackets ke andar jo bhi
 # string daalte hain, woh string python use se input maangne se pehle print
 # kar deti hai. Isse user ko kuch hint mil jata hai ki kya input karna hai.
