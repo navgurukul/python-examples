@@ -34,4 +34,4 @@
 
 
 #var56 me ek STRING value daalni hai
-#fir var 56 mei uss STRING value ko INTEGER mein type cast kare
+#fir var 57 mei uss STRING value ko INTEGER mein type cast kare
