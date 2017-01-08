@@ -16,10 +16,8 @@ print num_squares_list
 # Iss example mei humne ek list banayi, aur list ko iterate kiye
 # Iterate karte hue har element ko modify karke humne ek nayi list num_squares_list mei daal diya
 
-
-# Ab aisa hi ek program likhe jo numbers ko 10 se multiply karke ek nayi list mei daalti hai
-
-
+#Question 1
+# Ab aisa hi ek program likhe jo numbers ko 10 se multiply karke ek nayi list multiply_10 mei daale
 
 
 
@@ -27,6 +25,8 @@ print num_squares_list
 
 
 
+
+#Question 2
 list1 = [130, 131, 132, 133, 134, 135, 136, 137, 138, 139]
 list2 = [245, 246, 247, 248, 249, 250, 251, 252, 253, 254]
 
