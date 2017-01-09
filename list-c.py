@@ -2,6 +2,7 @@
 # Har line of code se pehle aapko ek line mei comment mei daal kar likhna hai, ki uss line of code ka matlab kya hai
 # Aap jyada comments bhi likh sakte hai, jitne jyada comments likhenge, utna aapkya fayda hoga
 
+#Question 1
 # Aap apni questions_list ko iterate karein
 # Har iteration mei kuch aisa print karein
 #
@@ -15,7 +16,7 @@
 
 
 
-
+#Question 2
 # Uppar wale code ko modify karein jisse, woh har iteration ke baad user se input le, ki user ko kya lagta hai kya answer hai
 #
 # ----------------------------------------
@@ -30,7 +31,7 @@
 
 
 
-
+#Question 3
 # Aap apni questions_list ko iterate karein
 # User ke answer ko answer_list mei daalein
 
@@ -38,7 +39,7 @@
 
 
 
-
+#Question 4
 # Aap apni questions_list ko iterate karo
 # Har iteration par question ki length nikaal kar ek total_length naam mei append karo
 # Matlab agar question "Python kya hai?" toh length 15 add hogi total_length mei

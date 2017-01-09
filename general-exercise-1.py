@@ -2,7 +2,7 @@
 # Har line of code se pehle aapko ek line mei comment mei daal kar likhna hai, ki uss line of code ka matlab kya hai
 # Aap jyada comments bhi likh sakte hai, jitne jyada comments likhenge, utna aapkya fayda hoga
 
-
+#Question 1
 # Iss program mein hum students ki ginti aur ek student ke kharche se hisaab se pure NavGurukul ka ek mahine ka kharcha nikalenge
 # `raw_input` ka use kar ke ek do values ka input lo:
 # - Number of students
@@ -18,7 +18,7 @@
 
 
 
-
+#Question 2
 # Jaise hum list ki length nikalne ki len ka use karte aa rahe hain, waise hi hum strings
 # ki length nikalne ke liye len ka use kar sakte hain.
 string_name = "Shakrudin"
@@ -70,7 +70,7 @@ print type("n" in string_name)
 
 
 
-
+#Question 3
 # raw_input ka use kar ke 3 alag variables mein 3 integers ka input lein.
 # Input lene ke baad inn 3 mein se sabse bade number ko print karo
 # Note: Isme aap loops ka use nahi kar sakte.

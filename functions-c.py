@@ -2,6 +2,7 @@
 # Har line of code se pehle aapko ek line mei comment mei daal kar likhna hai, ki uss line of code ka matlab kya hai
 # Aap jyada comments bhi likh sakte hai, jitne jyada comments likhenge, utna aapkya fayda hoga
 
+#Question 1
 # calculator naam ka ek function banao jo teen argument leta ho - number_x, number_y, operation.
 # number_x aur number_y mein hum humesha do integers denge aur operation mein kaunsa operation karna hai woh denge. Jaise:
 # - Agar operation mein "add" diya toh number_x aur number_y ko add kar ke returna karega.
@@ -16,15 +17,15 @@
 
 # function likhne ke baad, yeh kaam karne ke liye function call karo aur variable mein value daalo
 # 24 aur 20 ko add karo aur number_1 variable mein value daalo
-# 50 aur 60 ko multiply karo aur number_1 variable mein value daalo
-# 80 aur 120 ko divide karo aur number_1 variable mein value daalo
-# 90 aur 23 ko subtract karo aur number_1 variable mein value daalo
+# 50 aur 60 ko multiply karo aur number_2 variable mein value daalo
+# 80 aur 120 ko divide karo aur number_3 variable mein value daalo
+# 90 aur 23 ko subtract karo aur number_4 variable mein value daalo
 
 
 
 
 
-
+#Question 2
 # Ab raw_input ka use kar ke user se 2 numbers input lo.
 # Note: Yeh karne ke liye koi function banane ki zaroorat nahi hai.
 # Fir calculator function ko 4 baar call call kar ke inn dono numbers do add, subtract, multiply, divide karo
@@ -40,7 +41,7 @@
 
 
 
-
+#Question 3
 # list_change naam ka ek function ka code likho jo 2 lists jisme integers arguments ki tarah le aur fir unn lists
 # ki woh items jo same index number (kram) pe hain unko multiply kar ke ek nayi list return karvaye.
 # Aapko multiply karne ke liye *calculator* function ka use karna hai. Normal tareeke se multiply nahi kar sakte ho.

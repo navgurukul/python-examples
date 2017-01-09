@@ -2,13 +2,14 @@
 # Har line of code se pehle aapko ek line mei comment  mei daal kar likhna hai, ki uss line of code ka matlab kya hai
 # Aap jyada comments bhi likh sakte hai, jitne jyada comments likhenge, utna aapkya fayda hoga
 
+# Question 1
 # Pehle ke variable_list mein 0 se 100 integers ki list banayein
 # Fir aapne iss list pe iterate karte hue 3 nayi list banani hai:
-# - Pehli list mein variable_list ke items ki 3 se multiply karke jo result aayta hai, woh hona chaiye
-# - Dusri list mein variable_list ke items ko 4 se divide karke jo result aata hai, woh hona chaiye.
+# - Pehli_list naam ki list mein variable_list ke items ko 3 se multiply karke jo result aaya hai, woh hona chaiye
+# - Dusri_list naam ki list mein variable_list ke items ko 4 se divide karke jo result aata hai, woh hona chaiye.
 #   Iss dusri list mein saari items `float` honi chaiye
-# - Teesri list variable_list ke items ko "NavGurukul" string ke saath jodna hai. Jaise:
-#   Agar variable_list ka pehla item 0 hai, iss teesri list ka pehla item "NavGurukul0" hona chaiye
+# - Teesri_list naam ki list variable_list ke items ko "NavGurukul" string ke saath jodna hai. Jaise:
+#   Agar variable_list ka pehla item 0 hai, iss teesri_list ka pehla item "NavGurukul0" hona chaiye
 #   Dusra item "NavGurukul1"
 #   Teesra item "NavGurukul2"
 # Iss program mein bas list banani hai. Kuch print nahi karna.
@@ -21,8 +22,8 @@
 
 
 
-
-# - Ek number ka factorial 0 se leke uss number tak ke saare numbers ko ek saath multiply karke nikalta hai.
+#Question 2
+# - Ek number ka factorial 1 se leke uss number tak ke saare numbers ko ek saath multiply karke nikalta hai.
 # Jaise 3 ka factorial 6 hai. Kyunki -
 # 1 * 2 * 3 ko calculate karke 6 aata hai
 # 4 ka factorial 24 hai. Kyunki -
@@ -41,7 +42,7 @@
 
 
 
-
+# Question 3
 # numbers_list naam ki ek list banayein jisme 1 se 10000 (das hazar) tak integers hon
 # Ab numbers_list ke saare numbers ka sum nikalne ka code likhein.
 # End mein sum ko print karein

@@ -2,6 +2,7 @@
 # Har line of code se pehle aapko ek line mei comment mei daal kar likhna hai, ki uss line of code ka matlab kya hai
 # Aap jyada comments bhi likh sakte hai, jitne jyada comments likhenge, utna aapkya fayda hoga
 
+# Question 1
 # Ab aap 10 aur questions, unke options and keys add karo apni lists mei
 
 
@@ -11,7 +12,7 @@
 
 
 
-
+# Queston 2
 # Ab aap apne KBC game mei har ek question ka alag alag prize rakhoge
 # jaise pehle question ke liye 1000 INR, doosre question ke liye 2000 INR ...
 # 1 - 1000

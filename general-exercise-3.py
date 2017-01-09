@@ -2,6 +2,7 @@
 # Har line of code se pehle aapko ek line mei comment  mei daal kar likhna hai, ki uss line of code ka matlab kya hai
 # Aap jyada comments bhi likh sakte hai, jitne jyada comments likhenge, utna aapkya fayda hoga
 
+# Qustion 1
 # Ek code likho jo ek list ko ulta kar ke ek nay list banaye.
 # Jaise agar aapke paas yeh list hai:
 # numbers_list = [1, 2, 3, 4, 5, 6, 7, 8, 9]
@@ -15,7 +16,7 @@
 
 
 
-
+# Question 2
 # Fibonacci series ek numbers ki vishesh vyavastha (special arrangement) hai. Yeh kuch aisi hoti hai:
 # 1, 1, 2, 3, 5, 8, 13, 21, 34, 55 ...
 # Yahan har number pichle do numbers ka sum (jod) hota hai. Jaise
@@ -36,7 +37,7 @@
 
 
 
-
+# Question 3
 # Ek list mein se sabse bade number ko print karne ka code likho
 # Jaise agar yeh list hai:
 # numbers_list = [1,2,3,4,5,200,12, 12, 30, 533, 32]
