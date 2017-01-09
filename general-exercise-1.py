@@ -4,11 +4,11 @@
 
 #Question 1
 # Iss program mein hum students ki ginti aur ek student ke kharche se hisaab se pure NavGurukul ka ek mahine ka kharcha nikalenge
-# `raw_input` ka use kar ke ek do values ka input lo:
+# Ek 'budget' naam ka function banao jo do arguments le:
 # - Number of students
 # - Ek student ka kharcha
 # Iss ke hisaab se total kharcha nikalein.
-# Agar total kharcha 50000 (50 hazar) ya usse kam hai toh print karein "Hum budget ke andar hain" nahi toh print karo ki hum budget ke bahar hain.
+# Agar total kharcha 50000 (50 hazar) ya usse kam hai toh return karein "Hum budget ke andar hain." nahi toh return karo ki "hum budget ke bahar hain."
 # Note: Inn exercises mein aapko variables ke naam apne aap soch kar likhne hain
 
 
@@ -52,14 +52,14 @@ print type("n" in string_name)
 # - 'rahulverma' ko guess karna aasan hai, lekin 'rahul$%verma12!' ko guess karna mushkil hai.
 # Iss vajah se aap jab bhi online account banaoge toh ek acha sakht password set karna important hota hai.
 # Hum iss program mein ek password checker banayenge jo yeh sunishchit karega ki humara password strong hai.
-# Pehle user se ek password ka string input lijiye.
+# password_strength naam ka function banao jo ek string argument lega.
 # Fir check kariye ki user ka password sakht hai ya nahi. Ek sakht password ko yeh sab rule follow karne chaiye:
 # - Kam se kam uski length 6 honi chaiye
 # - Jada se jada length 16 se jyada na ho
 # - Kam se kam ek dollar ka sign ($) hona chaiye
 # - Kam se kam password mein 2 ya 8 hona chaiye
 # - Password mein capital A ya capital Z hona chaiye
-# Agar password yeh rules follow kar raha hai toh "Strong Password" print karo, nahi toh "Weak Password" type karo
+# Agar password yeh rules follow kar raha hai toh "Strong Password" return karo, nahi toh "Weak Password" return karo
 
 
 
@@ -71,17 +71,7 @@ print type("n" in string_name)
 
 
 #Question 3
-# raw_input ka use kar ke 3 alag variables mein 3 integers ka input lein.
-# Input lene ke baad inn 3 mein se sabse bade number ko print karo
+# 'sabse_bada_number' naam ka function banao
+# Yeh function 3 integer arguments lega
+#  iske baad inn 3 mein se sabse bade number ko return karega
 # Note: Isme aap loops ka use nahi kar sakte.
-
-
-
-
-
-
-
-
-
-
- 
