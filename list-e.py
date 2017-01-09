@@ -3,7 +3,7 @@
 # Aap jyada comments bhi likh sakte hai, jitne jyada comments likhenge, utna aapkya fayda hoga
 
 #Question 1
-# Aap 1 se lekar 1000 tak jo number 7 se divisible hai, unko print karo
+# Aap 1 se lekar 100 tak jo number 7 se divisible hai, unko print karo
 
 
 
@@ -14,7 +14,7 @@
 
 
 #Question 2
-# Aap 1 se lekar 1000 tak jo number 7 aur 3 dono se divisible hai, woh print karo
+# Aap 1 se lekar 100 tak jo number 7 aur 3 dono se divisible hai, woh print karo
 
 
 
@@ -24,7 +24,7 @@
 
 
 #Question 3
-# Aap 1 se 1000 tak yeh karein:
+# Aap 1 se 100 tak yeh karein:
 # Agar number 3 se divisible hai toh "nav"
 # Agar number 7 se divisible hai toh "gurukul"
 # Agar number 21 se divisible hai toh "navgurukul"
