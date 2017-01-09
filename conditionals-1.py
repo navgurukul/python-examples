@@ -32,7 +32,7 @@ if day == "Monday": # Agar din Monday hai toh
 	print "Rajma Chawal"
 else: # Agar din Monday nahi hai toh
 	print "Poha"
-print "Khayenge" # Loop ke bahar aa gaye hai. Yeh code hamesha chalega.
+print "Khayenge" # If/Else ke bahar aa gaye hai. Yeh code hamesha chalega.
 
 # Yeh simple sa program hai, jisme sirf do hi case hai - ya toh day Monday hai ya nahi
 
