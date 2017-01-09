@@ -72,6 +72,6 @@ print type("n" in string_name)
 
 #Question 3
 # 'sabse_bada_number' naam ka function banao
-# Yeh function 3 integer arguments lega
+# Yeh function 3 integer ya float arguments lega
 #  iske baad inn 3 mein se sabse bade number ko return karega
 # Note: Isme aap loops ka use nahi kar sakte.
