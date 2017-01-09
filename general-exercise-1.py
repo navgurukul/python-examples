@@ -22,7 +22,7 @@
 # Jaise hum list ki length nikalne ki len ka use karte aa rahe hain, waise hi hum strings
 # ki length nikalne ke liye len ka use kar sakte hain.
 string_name = "Shakrudin"
-print len(srtring_name)
+print len(string_name)
 # Yahan print command 7 print karegi kyunki "Shakrudin" mein 9 letters ya charecters hai
 string_name = "Rishabh Verma"
 print len(string_name)
@@ -32,7 +32,7 @@ print len(string_name)
 # Aur jaise hum in ka use kar ke yeh dekh sakte hain ki koi item list mein hai ya nahi
 # waise hi hum in string ke saath bhi use kar sakte hain. Jaise:
 string_name = "navgurukul"
-if "n" in string_name:
+if "n" in string_name
     print "n hai"
 else:
     print "n nahi hai"
