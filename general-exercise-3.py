@@ -1,9 +1,10 @@
+# repl.it https://repl.it/teacher/assignments/22773/preview?from=correction
 # Yeh exercise hai
 # Har line of code se pehle aapko ek line mei comment  mei daal kar likhna hai, ki uss line of code ka matlab kya hai
 # Aap jyada comments bhi likh sakte hai, jitne jyada comments likhenge, utna aapkya fayda hoga
 
 # Qustion 1
-# Ek code likho jo ek list ko ulta kar ke ek nay list banaye.
+# Ek function likho list_reverse jo ek list argument le ke usse ulta kar ke return kare.
 # Jaise agar aapke paas yeh list hai:
 # numbers_list = [1, 2, 3, 4, 5, 6, 7, 8, 9]
 # Aapke code run karne ke baad nayi list aisi honi chaiye:
@@ -27,7 +28,7 @@
 # - 13 humein 8 + 5 kar ke milega
 # - 21 humein 13 + 8 kar ke milega
 # Iss series meim pehle do numbers (1 aur 1) ko chor ke saare number pichle do numbers ka sum hain
-# Ek python program likho jo pehle 100 fibonacci series ke number print kare
+# Ek python function fibonacci likho jo pehle 100 fibonacci series ke number ek list mei return kare
 
 
 
@@ -38,7 +39,8 @@
 
 
 # Question 3
-# Ek list mein se sabse bade number ko print karne ka code likho
+# Ek list mein se sabse bade number ko function se return karne ka code likho
+# function ka naam largerst_in_list hona chaiye jo ek list agument le
 # Jaise agar yeh list hai:
 # numbers_list = [1,2,3,4,5,200,12, 12, 30, 533, 32]
 # Toh aapke code ko 533 print karna padega kyunki woh sabse bada hai is list ke saare numbers mein se.
