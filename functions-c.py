@@ -1,3 +1,4 @@
+# repl.it https://repl.it/teacher/assignments/22780/edit
 # Yeh exercise hai
 # Har line of code se pehle aapko ek line mei comment mei daal kar likhna hai, ki uss line of code ka matlab kya hai
 # Aap jyada comments bhi likh sakte hai, jitne jyada comments likhenge, utna aapkya fayda hoga
@@ -42,7 +43,7 @@
 
 
 #Question 3
-# list_change naam ka ek function ka code likho jo 2 lists jisme integers arguments ki tarah le aur fir unn lists
+# list_change naam ka ek function ka code likho jo 2 lists  arguments ki tarah le aur fir unn lists
 # ki woh items jo same index number (kram) pe hain unko multiply kar ke ek nayi list return karvaye.
 # Aapko multiply karne ke liye *calculator* function ka use karna hai. Normal tareeke se multiply nahi kar sakte ho.
 # Jaise agar hum function ko aise call karenge toh:
