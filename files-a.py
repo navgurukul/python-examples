@@ -3,7 +3,7 @@
 # Aap jyada comments bhi likh sakte hai, jitne jyada comments likhenge, utna aapkya fayda hoga
 
 # Question 1
-# Iss link (http://navgurukul.org/python/people1-exercise.txt) se file download karo.
+# Iss link (http://navgurukul.org/python/files/people1-exercise.txt) se file download karo.
 # Ab apne code se iss file ko kholo aur fir, uske saare contents ko print karo.
 
 
