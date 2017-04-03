@@ -48,8 +48,8 @@ Main NavGurukul ka co-founder hun.
 23
 ---------------
 '''
-# hum jo iss number ko lists denge woh lists kitni bhi lambi ho sakti hain. toh aapne aisa loop likhna hai ji jitni bhi lambi list pe iterate kar sakta hai.
-# Apni list waali exercises yaad karo ki yeh kaise karte hai. Abhi ke liye aapko sirf 3 items ki list ke liye hi yeh likhna hai
+# hum iss function ko jo lists denge woh lists kitni bhi lambi ho sakti hain. Toh aapne aisa loop likhna hai jo jitni bhi lambi list pe iterate kar sake.
+# Apni list waali exercises yaad karo ki yeh kaise karte hai. Abhi ke liye aapko sirf 3 items ki list ke liye hi yeh likhna hai.
 
 
 
