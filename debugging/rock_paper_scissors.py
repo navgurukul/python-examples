@@ -12,6 +12,11 @@
 # Aap iss game ke rules iss youtube video se seekh sakte hai
 # https://www.youtube.com/watch?v=d1ZduiNyvcM
 
+# Topics covered
+#  - semantic/syntactic problems in if/else
+#  - semantic error in while conditions
+#  - errors in variable naming
+
 from random import randint
 
 def win():

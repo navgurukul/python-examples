@@ -16,6 +16,12 @@
 #     isliye navgurukul ka a ==> c mein change ho gaya.    
 # decryption theek iska ulta hota hai.
 
+# Topics covered
+#  - function returning the wrong value
+#  - argument passed to the function but never used.
+#  - for loop itterates over wrong string
+#  - semantic/syntactic problems in if/else
+
 # Cipher wheel with a function for finding an element in a list
 def find_in_list(query, mainlist):
 # this function is used to find the position of the "query" in the "mainlist". If "query" is in the list then it returns its position, otherwise it returns None
@@ -50,9 +56,7 @@ def decrypt_message(encrypted_msg):
 # this fucnction takes "encrypted_msg" as an argument and print/return the encrypted message. The "encrypted_msg" is tranfered into "decrypted_msg" using "shifted_chars" list. Example, if encrypted_msg = "pi" then p => n, i => g  and hence decrypted_msg = "ng"
     decrypted_msg = ""
     for character in decrypted_msg:
-      # for character in msg      
         if character in shifted_chars
-        # colon missing in if Statement
             char_index = find_in_list(character, shifted_chars)
             new_char = chars[char_index]
             decrypted_msg = decrypted_msg + new_char

@@ -10,6 +10,10 @@
 
 # You can get multiple clues after each guess. If the secret number is 456 and your guess is 546 the clues would be “fermi pico pico”. The 6 provides “fermi” and the 5 and 4 provide “pico pico”.
 
+# Topics covered
+#  - function returning the wrong value
+#  - Typeconversion problems
+
 import random
 def getSecretNum(numDigits):
 # Returns a string that is numDigits long, made up of unique random digits.

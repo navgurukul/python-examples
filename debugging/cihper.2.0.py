@@ -9,6 +9,11 @@
 #   ascii_value = ord(v) # 118
 #   string_value = str(ascii_value) # v
 # decrypt function encrypt function ka ultaa hai. Yeh value ko 3 se incresae karne ki jagah 3 se kam kar deta hai.
+
+# Topics covered
+#  - semantic/syntactic problems in if/else
+#  - problems in while loop
+
 def encrypt():
   message = raw_input("Enter the message you want to encrypt")
   ascii_message = [ord(char)+3 for char in message]
@@ -23,7 +28,7 @@ def decrypt():
   print ''.join(decrypt_message)
 
 flag = True
-while flag == True
+while flag == False
 choice = raw_input("What do you want to do? 1. Encrypt a message 2. Decrypt a message         Enter E or D respectively!")
 if choice = 'e':
 encrypt() 
