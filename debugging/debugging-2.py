@@ -3,7 +3,7 @@
 ##############
 #Tumhare paas 5 mangoes hai
 mangoes = 5
-# Kisi ne fumhe 5 aur mangoes de diye
+# Kisi ne humhe 5 aur mangoes de diye
 manGoes = mangoes + 5
 # Ab tumne unn mangoes ko 5 logo mei baant diya
 print mangoes / 5
