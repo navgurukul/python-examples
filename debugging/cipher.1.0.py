@@ -31,7 +31,6 @@ def find_in_list(query, mainlist):
     for i in range_for_loop:
         element = mainlist[i]
         if element = query:
-          # bad use of comparison operator
             index = i
     return i
 # this should return the position of the "query" in the "mainlist"
