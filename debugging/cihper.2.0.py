@@ -4,10 +4,10 @@
 # Jaise,
 #   v ki ascii value 118 hai, agar hum isse 3 se increase kar de tab yeh 121 ho jayegi. Jo ki 'y' ki ascii value hai.
 #   ascii value nikalne ke liye hum ord() ka use karte hai.
-#   aur ascii value ko string mei convert karne ke liye chr function ka.
+#   aur ascii value ko string mei convert karne ke liye chr function ka use karte hai.
 #   Jaise,
 #   ascii_value = ord(v) # 118
-#   string_value = str(ascii_value) # v
+#   string_value = chr(ascii_value) # v
 # decrypt function encrypt function ka ultaa hai. Yeh value ko 3 se incresae karne ki jagah 3 se kam kar deta hai.
 
 # Topics covered
@@ -29,7 +29,7 @@ def decrypt():
 
 flag = True
 while flag == False
-choice = raw_input("What do you want to do? 1. Encrypt a message 2. Decrypt a message         Enter E or D respectively!")
+choice = raw_input("What do you want to do? \n1. Encrypt a message 2. Decrypt a message \nEnter E or D respectively!")
 if choice = 'e':
 encrypt() 
 els choice = 'd':
